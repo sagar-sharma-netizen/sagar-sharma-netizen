@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar-sharma-netizen
 - 👀 I’m interested in building applications from scratch.
-- 🌱 I’m currently learning building python web frameworks and deploying containerized applications using docker.
+- 🌱 I’m currently learning machine learning and operations.
 - 💞️ I’m looking to collaborate on open source projects.
 
 <!---
