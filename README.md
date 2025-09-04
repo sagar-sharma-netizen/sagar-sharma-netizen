@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagar-sharma-netizen
 - 👀 I’m interested in building applications from scratch.
-- 🌱 I’m currently learning machine learning and operations.
+- 🌱 I’m currently learning machine learning and AI.
 - 💞️ I’m looking to collaborate on open source projects.
 
 <!---
